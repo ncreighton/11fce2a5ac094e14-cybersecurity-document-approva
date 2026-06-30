@@ -1,0 +1,2 @@
+# 11fce2a5ac094e14-cybersecurity-document-approva
+Professional cybersecurity browser extension — without the professional price tag.  Privacy-first: all processing stays local, no data sent to third-party servers. Works directly in Chrome, Edge, and Brave — no switching apps required.  ## What's Included  - Cybersecurity Document Approval Workflow — fully configured and ready to use - One-click ac
